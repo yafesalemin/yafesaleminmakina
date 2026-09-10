@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.yafesaleminmakina.com/sitemap.xml
+Sitemap: https://yafesalemin.github.io/yafesaleminmakina/sitemap.xml
